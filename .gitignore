@@ -1,0 +1,14 @@
+# Python bytecode caches
+__pycache__/
+*.pyc
+
+# Local environments
+.venv/
+env/
+venv/
+
+# Binary data and generated ML vectors (Never commit heavy files)
+*.npy
+*.index
+data/
+drive/
